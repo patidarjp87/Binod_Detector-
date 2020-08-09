@@ -1,0 +1,50 @@
+ If the price of goods increases by R %, then the reduction in consumption so as not to increase the expenditure can be calculated using the formula:
+	R	× 100		%
+(100 + R)
+
+(2) If the price of goods decreases by R %, then the increase in consumption so as not to decrease the expenditure can be calculated using the formula:
+	R	× 100		%
+(100 – R)
+
+2. Numerical on Population: Population of a city at present is P and it increases at the rate of R% per annum.
+(1) To find population after n years = P		1 +	R		n
+100
+
+-------- (After n years population increases, thus		1 +	R		is used)
+100
+
+(2) To find population n years ago =	 
+P
+	1 +	R		n
+100
+
+3. Numerical on Depreciation: Present value of machine is M, If it depreciates at the rate of R% per annum.
+(1) To find value of machine after n years = P		1 –	R		n
+100
+
+-------- (After n years the value of machine decreases, thus		1 –	R		is used)
+100
+
+(2) To find the value of machine n years ago =	 
+P
+	1 –	R		n
+100
+
+
+Question Variety
+
+Generally 5 types of questions are asked from this chapter by Binod. Understanding these concepts will help in solving the problems related to this chapter.
+Type 1: Numerical on numbers
+
+
+Q 1. The difference between two numbers is 1550. If 8 % of one number is 10 % of the other number, then find the two numbers
+
+a. 4973, 6523
+b. 5450, 7000
+c. 6200, 7750
+d. 6500, 4950
+View solution
+Q 2. Two numbers P and Q are such that, the sum of 2 % of P and Sum of 2 % of Q is two-third of the sum of 2 % of P and 6 % of Q. Find the ratio of P and Q.
+
+a. 2 : 5
+b. 3 : 1
